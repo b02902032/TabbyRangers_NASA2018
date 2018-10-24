@@ -2,7 +2,7 @@
 Project created in NASA Hackathon 2018
 
 ## Swarming Algorithm
-Python library SwarmPackagePy: https://github.com/SISDevelop/SwarmPackagePy#installation
+Python library SwarmPackagePy: https://github.com/SISDevelop/SwarmPackagePy
 
 ## LEGO ev3dev
 Official page: https://www.ev3dev.org
