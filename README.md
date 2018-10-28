@@ -33,10 +33,17 @@ Save global best
 * keras
 * tensorflow-gpu
 * numpy
-### Data preperation
+### Data Preperation and Generation
 ![data example](https://github.com/b02902032/TabbyRangers_NASA2018/blob/master/images/data_demo.gif)
-### Model structure
+To simulate the damage on the sapcecraft surface, i.e. holes and scratches, we applied several stacked formulas to create 3D surfaces. The data is depth bitmaps with size 45x45, and followings are the details: 
+| Damage Type | Quantity |
+|:-----------:|----------|
+|   Scratch   |   2000   |
+|  Small hole |   2000   |
+|   Big hole  |   2000   |
+### Model Structure
 ![data example](https://github.com/b02902032/TabbyRangers_NASA2018/blob/master/images/summary.png)
+We used a convolutional neural network (CNN) to classify and predict the damage samples, the above is the model structure.
 ### Results
 ![data example](https://github.com/b02902032/TabbyRangers_NASA2018/blob/master/images/result.png)
 
