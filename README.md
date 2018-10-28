@@ -36,8 +36,9 @@ Save global best
 ### Data preperation
 ![data example](https://github.com/b02902032/TabbyRangers_NASA2018/blob/master/images/data_demo.gif)
 ### Model structure
-
+![data example](https://github.com/b02902032/TabbyRangers_NASA2018/blob/master/images/summary.gif)
 ### Results
+![data example](https://github.com/b02902032/TabbyRangers_NASA2018/blob/master/images/result.gif)
 
 
 ## LEGO ev3dev
