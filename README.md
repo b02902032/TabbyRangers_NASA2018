@@ -34,7 +34,7 @@ Save global best
 * tensorflow-gpu
 * numpy
 ### Data preperation
-![data example](https://github.com/b02902032/TabbyRangers_NASA2018/blob/master/data_demo.gif)
+![data example](https://github.com/b02902032/TabbyRangers_NASA2018/blob/master/images/data_demo.gif)
 ### Model structure
 
 ### Results
