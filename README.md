@@ -1,6 +1,8 @@
 # TabbyRangers_NASA2018
 Project created in NASA Hackathon 2018
-
+Our project page: https://2018.spaceappschallenge.org/challenges/can-you-build/design-based-nature-fusion/teams/tabbyrangers
+Quick review: https://youtu.be/V6M0qPH7dbY
+Slide: https://www.slideshare.net/ChiHsiYu/2018-nasa-hackathon-tabby-rangers-taiwan
 ## ArtificialBeeColonyAlgorithm
 ### Requirements
 * SwarmPackagePy: https://github.com/SISDevelop/SwarmPackagePy
